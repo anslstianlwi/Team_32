@@ -1,1 +1,0 @@
-print("Chana Amelinda Putri")
