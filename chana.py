@@ -1,1 +1,1 @@
-print "Chana Amelinda Putri"
+print ("Chana Amelinda Putri")
